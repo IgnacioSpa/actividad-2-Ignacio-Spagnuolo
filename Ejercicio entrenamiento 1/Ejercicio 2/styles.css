@@ -1,0 +1,54 @@
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 150%;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+p{
+    text-align: center;
+}
+
+
+.boton1{
+    background-color: lightblue;
+}
+
+.boton2{
+    background-color: pink;
+}
+
+label{
+    display: inline-block;
+    width: 20%;
+}
+
+.formulario{
+    width: 30%;
+    border: 1px solid #999;
+    border-radius: 1%;
+    background: #f2f2f2;
+    padding: 2% 4%;
+    margin: 0 auto;
+}
+
+.contenedor{
+    width: 60%;
+    border: 1px solid #999;
+    border-radius: 1%;
+    background: #f2f2f2;
+    padding: 2% 4%;
+    margin: 2% auto;
+}
+
+img{
+    width: 100%;
+}
